@@ -1,7 +1,6 @@
 # spring-react-blog
-Token-based blog application using spring boot, react and jwt.
-
-This project is under development.
+Creative blog website using react as a front-end and Spring as a back-end server where user can login, create blogs, edit blogs, comment on blogs and see other blogs.
+I am currently working on integrating Firebase to this app where all the post and user credentials can be stored in real-time.
 
 ### Backend
 - Go to your project folder from your terminal
